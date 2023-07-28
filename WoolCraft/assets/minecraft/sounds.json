@@ -1,0 +1,352 @@
+{
+  "block.grass.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.grass.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.grass.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.grass.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.grass.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.wood.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.wood.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.wood.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.wood.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.wood.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.netherrack.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.netherrack.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.netherrack.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.netherrack.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.netherrack.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.gravel.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.gravel.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.gravel.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.gravel.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.gravel.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.metal.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.metal.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.metal.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.metal.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.metal.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.sand.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.sand.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.sand.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.sand.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.sand.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.stone.break": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.stone.place": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "block.stone.fall": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.stone.hit": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.stone.step": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  }
+}
