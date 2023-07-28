@@ -30,7 +30,7 @@ def gen_texture(img_file):
 
     wool = Image.open('./white_wool.png').convert('RGB')
     dst = Image.new('RGBA', size)
-    main_color = np.array(colors[1])
+    main_color = np.array(colors[0])
     ground = np.array((232, 235, 235))
 
     for i in range(size[0]):
@@ -50,7 +50,7 @@ def gen_texture(img_file):
 
 size = (16, 16)
 
-gen_texture('./src_img/oak_log_top.png')
+gen_texture('./src_img/cherry_log_top.png')
 """
 for file in glob.glob('./src_img/*'):
     gen_texture(file)
