@@ -18,7 +18,7 @@ def gen_texture(img_file):
     if len(data) == 0:
         return
 
-    clusters = bmc.clustering(data, 0, 65536 // 8, 1)
+    clusters = bmc.clustering(data, 0, 65536, 1)
     clusters = sorted(clusters, reverse=True, key=lambda x: len(x))
 
     colors = []
@@ -30,7 +30,7 @@ def gen_texture(img_file):
 
     wool = Image.open('./white_wool.png').convert('RGB')
     dst = Image.new('RGBA', size)
-    main_color = np.array(colors[1])
+    main_color = np.array(colors[2])
     ground = np.array((232, 235, 235))
 
     for i in range(size[0]):
@@ -50,7 +50,7 @@ def gen_texture(img_file):
 
 size = (16, 16)
 
-gen_texture('./src_img/mud_bricks.png')
+gen_texture('./src_img/piston_inner.png')
 """
 for file in glob.glob('./src_img/*'):
     gen_texture(file)
