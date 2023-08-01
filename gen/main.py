@@ -18,7 +18,7 @@ def gen_texture(img_file):
     if len(data) == 0:
         return
 
-    clusters = bmc.clustering(data, 0, 65536, 1)
+    clusters = bmc.clustering(data, 0, 65536 // 4, 1)
     clusters = sorted(clusters, reverse=True, key=lambda x: len(x))
 
     colors = []
@@ -50,7 +50,7 @@ def gen_texture(img_file):
 
 size = (16, 16)
 
-gen_texture('./src_img/piston_inner.png')
+gen_texture('./src_img/mossy_stone_bricks.png')
 """
 for file in glob.glob('./src_img/*'):
     gen_texture(file)
